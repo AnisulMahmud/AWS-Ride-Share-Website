@@ -13,4 +13,7 @@ So in general user will request a ride then a unicorn will be sent and that ride
 
 ![Alt text](image-1.png)
 
+9. Then the integration of the map
+
+
 ![Alt text](image.png)
