@@ -26,8 +26,8 @@ The Whole Architecture
 ![Alt text](architecture.png)
 
 
-## Notes: After testing this, do not forget to delete the app from amplify, table from DynamoDB and lambda functions, conginoto also, so that it won't cost you anything. 
+## Notes: After testing this, do not forget to delete the app from amplify, table from DynamoDB and lambda functions, congnito also, so that it won't cost you anything. 
 
-# The code is from AWS. Command to copy code from AWS’s S3 bucket (from CloudShell command line): aws s3 cp s3://wildrydes-[your_region_name, like eu-north-1]/WebApplication/1_StaticWebHosting/website ./ --recursive
+###### The code is from AWS. Command to copy code from AWS’s S3 bucket (from CloudShell command line): aws s3 cp s3://wildrydes-[your_region_name, like eu-north-1]/WebApplication/1_StaticWebHosting/website ./ --recursive
 
 
